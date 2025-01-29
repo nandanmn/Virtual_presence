@@ -20,7 +20,7 @@ Virtual_Presence/
 ## 🛠️ Setup Instructions
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/Virtual_Presence.git
+   git clone https://github.com/nandanmn/Virtual_presence.git
    ```
 
 2. Navigate to project directory
